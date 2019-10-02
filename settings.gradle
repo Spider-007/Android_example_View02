@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':isoreder', ':broadcastforcedoffline'
 rootProject.name='Android_example_View02'

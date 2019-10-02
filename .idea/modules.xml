@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android_example_View02.iml" filepath="$PROJECT_DIR$/Android_example_View02.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastforcedoffline/broadcastforcedoffline.iml" filepath="$PROJECT_DIR$/broadcastforcedoffline/broadcastforcedoffline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isoreder/isoreder.iml" filepath="$PROJECT_DIR$/isoreder/isoreder.iml" />
     </modules>
   </component>
 </project>
